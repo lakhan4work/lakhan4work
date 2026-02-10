@@ -68,13 +68,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakhan4work&theme=react&hide_border=false&layout=compact" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lakhan4work&theme=darkhub&no-frame=true&margin-w=15)
-
-
 ---
 
 ### 🔝 Top Contributed Repo
