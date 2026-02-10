@@ -72,7 +72,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lakhan4work&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lakhan4work&theme=darkhub&no-frame=true&margin-w=15)
+
 
 ---
 
