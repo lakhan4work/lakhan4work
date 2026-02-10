@@ -80,7 +80,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lakhan4work&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-![Snake animation](https://raw.githubusercontent.com/lakhan4work/lakhan4work/output/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/lakhan4work/lakhan4work/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
